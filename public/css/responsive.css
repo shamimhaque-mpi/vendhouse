@@ -1,0 +1,79 @@
+@media screen and (max-width: 992px){
+	.contact form{
+		position: static;
+		margin: 0 auto;
+	}
+	.top-navbar{
+		float: left;
+	}
+	.footer-bottom p{
+		padding: 0;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.footer-top{
+		padding-right: 0;
+	}
+	.footer-top-left{
+		padding-left: 20px;
+	}
+	iframe{
+		display: none;
+	}
+	.tableResponsive{
+		overflow-x: scroll;
+		width: 100%;
+	}
+	.contact form{
+		position: static;
+		margin: 0 auto;
+	}
+	.logo{
+		margin: 0 auto 5px;
+	}
+	.logo figcaption{
+		font-size: 30px;
+		line-height: 1.9;
+	}
+	.top-navbar{
+		float: inherit;
+	        margin: 0 auto;
+	        width: 300px;
+	}
+	.footer-bottom .text1, .footer-bottom .text2{
+		text-align: center;
+	}
+	.nev-bg{
+		position: initial;
+	}
+	.jumbotron-custom{
+		/*height: 60vh;*/
+		display: none;
+	}
+	.top-navbar li a{
+		margin: 12px 8px 0;
+	}
+	.pull-right .next i{
+		padding-right: 7px;
+   		padding-left: 2px;
+	}
+}
+
+@media screen and (min-width: 768px){
+	.footer-top-middle{
+		padding-left: 20px !important;
+	}
+	.footer-bottom{
+		text-align: center;
+	}
+	.footer-bottom ul{
+		float: left;
+		width: 100%;
+	}
+}
+@media screen and (min-width: 320px){
+	/*.modal-dialog{
+		width: 300px;
+	}*/
+}

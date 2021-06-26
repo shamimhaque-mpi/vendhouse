@@ -1,0 +1,149 @@
+.header{
+	font-weight: bold;
+	color:#1AA9E4;
+}
+.price{
+	font-size: 28px;
+	color:#444;
+	font-weight: bold;
+}
+
+figure {
+	position: relative;
+	overflow: hidden;
+}
+figure figcaption span.stock-alert {
+	color: #fff;
+	text-align: center;
+	padding: 3px 0;
+	position: absolute;
+	top: 25px;
+	right: -50px;
+	width: 100%;
+	max-width: 166px;
+	transform: rotate(45deg);
+	font-size: 10px;
+}
+
+#stock-out {
+	background: #dc3545;
+}
+#stock-limit {
+	background: #ffc107;
+}
+
+.btn-md{
+	background: #eb5e00;
+	color: #fff;
+}
+.btn-md:hover{
+	border: 1px solid #eb5e00;
+	color: #eb5e00;
+}
+/*eazy Zoom Style Start Here */
+.easyzoom {
+	width: 100%;
+	margin: 15px 0;
+}
+.easyzoom > a > img {
+	width: 100%;
+}
+.thumbnails {overflow: auto;}
+.thumbnails li {
+	float: left;
+	width: 19%;
+	margin-right: 5px;
+}
+.thumbnails li:nth-of-type(5) {
+	margin-right: 0;
+}
+.thumbnails li a {
+	display: block;
+	width: 100%;
+}
+.thumbnails li a img {
+	width: 100%;
+	height: 80px;
+}
+.suggest-product {
+    text-align: center;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: -15px;
+	overflow: hidden;
+}
+.suggest-product img {
+	transition: 0.3s;
+}
+.suggest-product img:hover {
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+.suggest-product b {
+	font-size: 16px;
+	padding-bottom: 5px;
+	display: block;
+}
+.suggest-product span {
+	display: block;
+    font-size: 16px;
+    padding-top: 8px;
+    white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.suggest-product img {height: 140px;}
+
+a:hover {
+	cursor: pointer;
+}
+
+@media screen and (max-width: 768px){
+	.hide-mobile {display: none;}
+	.hide-desktop {
+		display: block;
+		margin-top: 10px;
+	}
+	.suggest-product img {
+		width: 100%;
+		height: auto;
+	}
+	.thumbnails li {
+		width: 18%;
+	    margin-right: 3px;
+	    margin-top: 3px;
+	}
+	.zoom-cover {
+	    background: transparent;
+	    width: 380px;
+	    height: 415px;
+	    position: absolute;
+	    top: 0;
+	}
+}
+@media screen and (min-width: 768px){
+	.hide-mobile {display: block;}
+	.hide-desktop {display: none;}
+}
+@media screen and (min-width: 1100px){
+		.product_width{
+		width: 16.66%;
+		height: 340px !important;
+		margin: 0px !important;
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+}
+.slider{
+	margin: 5px !important;
+}
+/*.product_width{
+	width: 20%;
+}*/
+.content_item figure:hover img{
+	-moz-transform: scale(1.07);
+	-webkit-transform: scale(1.07);
+	transform: scale(1.07);
+}

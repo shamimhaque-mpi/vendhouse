@@ -1,0 +1,29 @@
+[09-Nov-2020 11:19:20 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwvendhousecom/public_html/application/views/components/stock/product_stock.php on line 93
+[09-Nov-2020 11:19:22 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwvendhousecom/public_html/application/views/components/stock/product_stock.php on line 93
+[29-Nov-2020 12:19:46 asia/dhaka] PHP Parse error:  syntax error, unexpected ';' in /home/wwwvendhousecom/public_html/application/views/components/product/editProduct.php on line 104
+[29-Nov-2020 13:56:20 asia/dhaka] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/wwwvendhousecom/public_html/application/views/super/dashboard.php on line 72
+[29-Nov-2020 13:56:21 asia/dhaka] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/wwwvendhousecom/public_html/application/views/super/dashboard.php on line 72
+[29-Nov-2020 13:56:52 asia/dhaka] PHP Fatal error:  Call to undefined function msg() in /home/wwwvendhousecom/public_html/application/views/super/dashboard.php on line 331
+[29-Nov-2020 13:57:31 asia/dhaka] PHP Fatal error:  Call to undefined function msg() in /home/wwwvendhousecom/public_html/application/views/super/dashboard.php on line 331
+[29-Nov-2020 13:57:42 asia/dhaka] PHP Fatal error:  Call to undefined function msg() in /home/wwwvendhousecom/public_html/application/views/super/dashboard.php on line 331
+[29-Nov-2020 13:57:45 asia/dhaka] PHP Fatal error:  Call to undefined function msg() in /home/wwwvendhousecom/public_html/application/views/super/dashboard.php on line 331
+[29-Nov-2020 13:57:48 asia/dhaka] PHP Fatal error:  Call to undefined function msg() in /home/wwwvendhousecom/public_html/application/views/super/dashboard.php on line 331
+[29-Nov-2020 13:57:53 asia/dhaka] PHP Fatal error:  Call to undefined function msg() in /home/wwwvendhousecom/public_html/application/views/super/dashboard.php on line 331
+[29-Nov-2020 15:12:24 asia/dhaka] PHP Parse error:  syntax error, unexpected ';' in /home/wwwvendhousecom/public_html/application/views/frontend/products_details.php on line 70
+[29-Nov-2020 15:12:35 asia/dhaka] PHP Parse error:  syntax error, unexpected ';' in /home/wwwvendhousecom/public_html/application/views/frontend/products_details.php on line 70
+[29-Mar-2021 14:46:17 asia/dhaka] PHP Fatal error:  Call to undefined function get_result() in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 115
+[29-Mar-2021 15:19:20 asia/dhaka] PHP Fatal error:  Call to undefined function send_sms() in /home/wwwvendhousecom/public_html/application/helpers/admin_helper.php on line 999
+[29-Mar-2021 15:20:21 asia/dhaka] PHP Fatal error:  Call to undefined function send_sms() in /home/wwwvendhousecom/public_html/application/helpers/admin_helper.php on line 999
+[29-Mar-2021 15:20:58 asia/dhaka] PHP Fatal error:  Call to undefined function send_sms() in /home/wwwvendhousecom/public_html/application/helpers/admin_helper.php on line 999
+[29-Mar-2021 15:29:10 asia/dhaka] PHP Fatal error:  Call to undefined function send_sms() in /home/wwwvendhousecom/public_html/application/helpers/admin_helper.php on line 999
+[29-Mar-2021 15:33:22 asia/dhaka] PHP Fatal error:  Call to undefined function send_sms() in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 136
+[29-Mar-2021 15:34:12 asia/dhaka] PHP Fatal error:  Call to undefined function send_sms() in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 136
+[24-Jun-2021 10:32:47 asia/dhaka] PHP Fatal error:  Call to undefined function save_data() in /home/wwwvendhousecom/public_html/application/controllers/frontend/home.php on line 776
+[24-Jun-2021 10:33:06 asia/dhaka] PHP Fatal error:  Call to undefined function save_data() in /home/wwwvendhousecom/public_html/application/controllers/frontend/home.php on line 776
+[24-Jun-2021 14:49:04 asia/dhaka] PHP Fatal error:  Call to undefined method Subscriber::retrieve_by() in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 78
+[24-Jun-2021 14:49:18 asia/dhaka] PHP Fatal error:  Call to undefined method Subscriber::retrieve_by() in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 78
+[24-Jun-2021 14:50:07 asia/dhaka] PHP Fatal error:  Call to undefined method Subscriber::retrieve_by() in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 78
+[24-Jun-2021 14:51:10 asia/dhaka] PHP Fatal error:  Call to undefined method Subscriber::retrieve_by() in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 78
+[24-Jun-2021 14:51:54 asia/dhaka] PHP Fatal error:  Call to undefined method Subscriber::retrieve_by() in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 79
+[24-Jun-2021 14:52:08 asia/dhaka] PHP Fatal error:  Call to undefined method Subscriber::retrieve_by() in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 78
+[24-Jun-2021 16:17:50 asia/dhaka] PHP Fatal error:  Call to a member function login() on null in /home/wwwvendhousecom/public_html/application/controllers/access/subscriber.php on line 68
